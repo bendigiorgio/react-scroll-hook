@@ -1,7 +1,7 @@
 {
   "name": "react-scroll-hook",
   "version": "1.0.0",
-  "description": "A simple React hook for listening to the scroll direction of a page. Provides the value as a string of either 'up' or 'down'.",
+  "description": "A simple React hook for listening to the scroll direction of a page. Provides the value as a string of either 'up' or 'down'. Defaults to up but can be configured to have a different default.",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
